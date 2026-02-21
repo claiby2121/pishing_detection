@@ -28,13 +28,12 @@ Phishing emails represent a major cybersecurity threat. The goal of this project
 
 - Text cleaning (HTML removal, regex filtering)
 - Tokenization
-- Lemmatization / Stemming
+- Lemmatization
 - Stopword removal
 
 ### 2️⃣ Feature Engineering
 
 - TF-IDF vectorization (`TfidfVectorizer`)
-- N-gram representation (if applicable)
 
 ### 3️⃣ Models Evaluated
 
